@@ -1,0 +1,14 @@
+# Template
+
+Red Lava Lamp = 
+Orange Lava Lamp = 
+Yellow Lava Lamp = 
+Green Lava Lamp = 
+Blue Lava Lamp = 
+Violet Lava Lamp = 
+Red Lava Lamp off = 
+Orange Lava Lamp off = 
+Yellow Lava Lamp off = 
+Green Lava Lamp off = 
+Blue Lava Lamp off = 
+Violet Lava Lamp off = 
