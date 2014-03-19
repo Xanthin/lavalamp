@@ -1,0 +1,14 @@
+# Translation by Xanthin
+
+Red Lava Lamp = Rote Lavalampe 
+Orange Lava Lamp = Orange Lavalampe 
+Yellow Lava Lamp = Gelbe Lavalampe
+Green Lava Lamp = Gruene Lavalampe
+Blue Lava Lamp = Blaue Lavalampe
+Violet Lava Lamp = Violette Lavalampe
+Red Lava Lamp off = Rote Lavalampe aus
+Orange Lava Lamp off = Orange Lavalampe aus
+Yellow Lava Lamp off = Gelbe Lavalampe aus
+Green Lava Lamp off = Gruene Lavalampe aus
+Blue Lava Lamp off = Blaue Lavalampe aus
+Violet Lava Lamp off = Violette Lavalampe aus
